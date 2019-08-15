@@ -4,3 +4,4 @@ branch1
 branch2xx
 pull request
 add 
+squash1
