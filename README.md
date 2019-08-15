@@ -5,3 +5,4 @@ branch2xx
 pull request
 add 
 squash1
+squash2
