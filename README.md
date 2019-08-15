@@ -6,3 +6,4 @@ pull request
 add 
 squash1
 squash2
+squash3
