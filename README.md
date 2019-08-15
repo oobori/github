@@ -7,3 +7,4 @@ add
 squash1
 squash2
 squash3
+squash4
