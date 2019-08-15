@@ -1,3 +1,4 @@
 # github
 new test
-brnch1
+branch1
+branch2
